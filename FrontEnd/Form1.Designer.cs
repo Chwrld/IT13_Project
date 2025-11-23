@@ -197,7 +197,7 @@
             guna2Button11.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button11.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button11.FillColor = Color.White;
-            guna2Button11.Font = new Font("Montserrat", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2Button11.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button11.ForeColor = Color.Black;
             guna2Button11.Image = Properties.Resources.profile_icon_design_free_vector;
             guna2Button11.ImageAlign = HorizontalAlignment.Left;
@@ -218,7 +218,7 @@
             guna2Button10.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button10.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button10.FillColor = Color.White;
-            guna2Button10.Font = new Font("Montserrat", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2Button10.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button10.ForeColor = Color.Black;
             guna2Button10.Image = Properties.Resources.StudentHub1;
             guna2Button10.ImageAlign = HorizontalAlignment.Left;
@@ -230,6 +230,7 @@
             guna2Button10.TabIndex = 0;
             guna2Button10.Text = "Student Hub";
             guna2Button10.TextAlign = HorizontalAlignment.Right;
+            guna2Button10.Click += guna2Button10_Click;
             // 
             // SideBar
             // 
@@ -262,7 +263,7 @@
             guna2Button4.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button4.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button4.FillColor = Color.White;
-            guna2Button4.Font = new Font("Montserrat", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2Button4.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button4.ForeColor = Color.DimGray;
             guna2Button4.Image = Properties.Resources.ticketicon;
             guna2Button4.ImageAlign = HorizontalAlignment.Left;
@@ -288,7 +289,7 @@
             guna2Button3.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button3.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button3.FillColor = Color.White;
-            guna2Button3.Font = new Font("Montserrat", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2Button3.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button3.ForeColor = Color.DimGray;
             guna2Button3.Image = Properties.Resources.annIcon;
             guna2Button3.ImageAlign = HorizontalAlignment.Left;
@@ -314,7 +315,7 @@
             MessagesBtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             MessagesBtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             MessagesBtn.FillColor = Color.White;
-            MessagesBtn.Font = new Font("Montserrat", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            MessagesBtn.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             MessagesBtn.ForeColor = Color.DimGray;
             MessagesBtn.Image = Properties.Resources.messagesicon;
             MessagesBtn.ImageAlign = HorizontalAlignment.Left;
@@ -341,7 +342,7 @@
             HomeBtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             HomeBtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             HomeBtn.FillColor = Color.White;
-            HomeBtn.Font = new Font("Montserrat", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            HomeBtn.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             HomeBtn.ForeColor = Color.DimGray;
             HomeBtn.Image = Properties.Resources.homw;
             HomeBtn.ImageAlign = HorizontalAlignment.Left;
@@ -372,22 +373,22 @@
             // guna2HtmlLabel1
             // 
             guna2HtmlLabel1.BackColor = Color.Transparent;
-            guna2HtmlLabel1.Font = new Font("Montserrat", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            guna2HtmlLabel1.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel1.ForeColor = Color.White;
             guna2HtmlLabel1.Location = new Point(37, 53);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(367, 23);
+            guna2HtmlLabel1.Size = new Size(321, 20);
             guna2HtmlLabel1.TabIndex = 1;
             guna2HtmlLabel1.Text = "Here’s what’s happening with your studies today.";
             // 
             // Welcome
             // 
             Welcome.BackColor = Color.Transparent;
-            Welcome.Font = new Font("Montserrat", 17.9999981F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Welcome.Font = new Font("Tahoma", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Welcome.ForeColor = Color.White;
             Welcome.Location = new Point(37, 12);
             Welcome.Name = "Welcome";
-            Welcome.Size = new Size(312, 35);
+            Welcome.Size = new Size(294, 31);
             Welcome.TabIndex = 0;
             Welcome.Text = "Welcome back, Student!                        ";
             Welcome.Click += Welcome_Click;
@@ -423,22 +424,22 @@
             // guna2HtmlLabel3
             // 
             guna2HtmlLabel3.BackColor = Color.Transparent;
-            guna2HtmlLabel3.Font = new Font("Montserrat", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel3.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel3.ForeColor = SystemColors.MenuHighlight;
             guna2HtmlLabel3.Location = new Point(22, 43);
             guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            guna2HtmlLabel3.Size = new Size(16, 31);
+            guna2HtmlLabel3.Size = new Size(16, 27);
             guna2HtmlLabel3.TabIndex = 1;
             guna2HtmlLabel3.Text = "5";
             // 
             // guna2HtmlLabel2
             // 
             guna2HtmlLabel2.BackColor = Color.Transparent;
-            guna2HtmlLabel2.Font = new Font("Montserrat", 9.749999F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel2.Font = new Font("Microsoft Sans Serif", 9.749999F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel2.ForeColor = Color.Black;
             guna2HtmlLabel2.Location = new Point(22, 17);
             guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            guna2HtmlLabel2.Size = new Size(123, 20);
+            guna2HtmlLabel2.Size = new Size(130, 18);
             guna2HtmlLabel2.TabIndex = 0;
             guna2HtmlLabel2.Text = "Unread Messages";
             // 
@@ -473,7 +474,7 @@
             guna2Button9.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button9.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button9.FillColor = Color.LightGray;
-            guna2Button9.Font = new Font("Montserrat", 8.999999F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2Button9.Font = new Font("Microsoft Sans Serif", 8.999999F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button9.ForeColor = Color.Black;
             guna2Button9.Location = new Point(47, 332);
             guna2Button9.Name = "guna2Button9";
@@ -558,10 +559,10 @@
             // guna2HtmlLabel18
             // 
             guna2HtmlLabel18.BackColor = Color.PowderBlue;
-            guna2HtmlLabel18.Font = new Font("MS Reference Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            guna2HtmlLabel18.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel18.Location = new Point(22, 27);
             guna2HtmlLabel18.Name = "guna2HtmlLabel18";
-            guna2HtmlLabel18.Size = new Size(25, 21);
+            guna2HtmlLabel18.Size = new Size(24, 20);
             guna2HtmlLabel18.TabIndex = 1;
             guna2HtmlLabel18.Text = "AO";
             // 
@@ -645,10 +646,10 @@
             // guna2HtmlLabel13
             // 
             guna2HtmlLabel13.BackColor = Color.PowderBlue;
-            guna2HtmlLabel13.Font = new Font("MS Reference Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            guna2HtmlLabel13.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel13.Location = new Point(22, 27);
             guna2HtmlLabel13.Name = "guna2HtmlLabel13";
-            guna2HtmlLabel13.Size = new Size(21, 21);
+            guna2HtmlLabel13.Size = new Size(22, 20);
             guna2HtmlLabel13.TabIndex = 1;
             guna2HtmlLabel13.Text = "DJ";
             guna2HtmlLabel13.Click += guna2HtmlLabel13_Click;
@@ -735,10 +736,10 @@
             // guna2HtmlLabel22
             // 
             guna2HtmlLabel22.BackColor = Color.PowderBlue;
-            guna2HtmlLabel22.Font = new Font("MS Reference Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            guna2HtmlLabel22.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel22.Location = new Point(22, 27);
             guna2HtmlLabel22.Name = "guna2HtmlLabel22";
-            guna2HtmlLabel22.Size = new Size(25, 21);
+            guna2HtmlLabel22.Size = new Size(26, 20);
             guna2HtmlLabel22.TabIndex = 1;
             guna2HtmlLabel22.Text = "PM";
             // 
@@ -748,7 +749,7 @@
             guna2HtmlLabel23.ForeColor = Color.Gray;
             guna2HtmlLabel23.Location = new Point(70, 31);
             guna2HtmlLabel23.Name = "guna2HtmlLabel23";
-            guna2HtmlLabel23.Size = new Size(193, 17);
+            guna2HtmlLabel23.Size = new Size(194, 17);
             guna2HtmlLabel23.TabIndex = 3;
             guna2HtmlLabel23.Text = "Thanks for your presentation. Let's...\r\n";
             // 
@@ -789,10 +790,10 @@
             // guna2HtmlLabel11
             // 
             guna2HtmlLabel11.BackColor = Color.Transparent;
-            guna2HtmlLabel11.Font = new Font("Montserrat", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel11.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel11.Location = new Point(58, 13);
             guna2HtmlLabel11.Name = "guna2HtmlLabel11";
-            guna2HtmlLabel11.Size = new Size(175, 28);
+            guna2HtmlLabel11.Size = new Size(169, 26);
             guna2HtmlLabel11.TabIndex = 0;
             guna2HtmlLabel11.Text = "Recent Messages";
             guna2HtmlLabel11.Click += guna2HtmlLabel11_Click;
@@ -863,7 +864,7 @@
             guna2HtmlLabel29.ForeColor = Color.Gray;
             guna2HtmlLabel29.Location = new Point(59, 27);
             guna2HtmlLabel29.Name = "guna2HtmlLabel29";
-            guna2HtmlLabel29.Size = new Size(107, 17);
+            guna2HtmlLabel29.Size = new Size(108, 17);
             guna2HtmlLabel29.TabIndex = 5;
             guna2HtmlLabel29.Text = "Tomorrow, 9:00 AM";
             // 
@@ -983,7 +984,7 @@
             guna2HtmlLabel33.ForeColor = Color.Gray;
             guna2HtmlLabel33.Location = new Point(59, 27);
             guna2HtmlLabel33.Name = "guna2HtmlLabel33";
-            guna2HtmlLabel33.Size = new Size(75, 17);
+            guna2HtmlLabel33.Size = new Size(74, 17);
             guna2HtmlLabel33.TabIndex = 5;
             guna2HtmlLabel33.Text = "Next Monday";
             // 
@@ -1019,10 +1020,10 @@
             // guna2HtmlLabel25
             // 
             guna2HtmlLabel25.BackColor = Color.Transparent;
-            guna2HtmlLabel25.Font = new Font("Montserrat", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel25.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel25.Location = new Point(58, 13);
             guna2HtmlLabel25.Name = "guna2HtmlLabel25";
-            guna2HtmlLabel25.Size = new Size(178, 28);
+            guna2HtmlLabel25.Size = new Size(167, 26);
             guna2HtmlLabel25.TabIndex = 7;
             guna2HtmlLabel25.Text = "Upcoming Events";
             guna2HtmlLabel25.Click += guna2HtmlLabel25_Click;
@@ -1058,22 +1059,22 @@
             // guna2HtmlLabel6
             // 
             guna2HtmlLabel6.BackColor = Color.Transparent;
-            guna2HtmlLabel6.Font = new Font("Montserrat", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel6.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel6.ForeColor = Color.Yellow;
             guna2HtmlLabel6.Location = new Point(22, 43);
             guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            guna2HtmlLabel6.Size = new Size(15, 31);
+            guna2HtmlLabel6.Size = new Size(16, 27);
             guna2HtmlLabel6.TabIndex = 1;
             guna2HtmlLabel6.Text = "3";
             // 
             // guna2HtmlLabel7
             // 
             guna2HtmlLabel7.BackColor = Color.Transparent;
-            guna2HtmlLabel7.Font = new Font("Montserrat", 9.749999F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel7.Font = new Font("Microsoft Sans Serif", 9.749999F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel7.ForeColor = Color.Black;
             guna2HtmlLabel7.Location = new Point(22, 17);
             guna2HtmlLabel7.Name = "guna2HtmlLabel7";
-            guna2HtmlLabel7.Size = new Size(153, 20);
+            guna2HtmlLabel7.Size = new Size(146, 18);
             guna2HtmlLabel7.TabIndex = 0;
             guna2HtmlLabel7.Text = "New Announcements";
             guna2HtmlLabel7.Click += guna2HtmlLabel7_Click;
@@ -1109,22 +1110,22 @@
             // guna2HtmlLabel9
             // 
             guna2HtmlLabel9.BackColor = Color.Transparent;
-            guna2HtmlLabel9.Font = new Font("Montserrat", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel9.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel9.ForeColor = Color.LimeGreen;
             guna2HtmlLabel9.Location = new Point(22, 43);
             guna2HtmlLabel9.Name = "guna2HtmlLabel9";
-            guna2HtmlLabel9.Size = new Size(15, 31);
+            guna2HtmlLabel9.Size = new Size(16, 27);
             guna2HtmlLabel9.TabIndex = 1;
             guna2HtmlLabel9.Text = "2";
             // 
             // guna2HtmlLabel10
             // 
             guna2HtmlLabel10.BackColor = Color.Transparent;
-            guna2HtmlLabel10.Font = new Font("Montserrat", 9.749999F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel10.Font = new Font("Microsoft Sans Serif", 9.749999F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel10.ForeColor = Color.Black;
             guna2HtmlLabel10.Location = new Point(22, 17);
             guna2HtmlLabel10.Name = "guna2HtmlLabel10";
-            guna2HtmlLabel10.Size = new Size(101, 20);
+            guna2HtmlLabel10.Size = new Size(101, 18);
             guna2HtmlLabel10.TabIndex = 0;
             guna2HtmlLabel10.Text = "Active Tickets";
             // 
