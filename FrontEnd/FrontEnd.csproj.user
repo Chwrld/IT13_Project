@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Add_User_Form.cs">
+    <Compile Update="Admin_Add_User_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Admin_Ticket_Management_Form.cs">
@@ -10,28 +13,31 @@
     <Compile Update="Admin_User_Management_Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Admi_ReportsAnalytics_Form.cs">
+    <Compile Update="Admin_ReportsAnalytics_Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="AnnouncementPageForm.cs">
+    <Compile Update="StudentAnnouncementPageForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form1.cs">
+    <Compile Update="StudentHomePageForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form2.cs">
+    <Compile Update="AdminDashboardPageForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MessagesPageForm.cs">
+    <Compile Update="StudentMessagesPageForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="NewTicketPageForm.cs">
+    <Compile Update="StudentNewTicketPageForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="StudentLoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="TicketPageForm.cs">
+    <Compile Update="StudentProfilePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentTicketPageForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\IT13_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\studentprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\studentprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\ticketpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\ticketpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\announcementpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\announcementpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|C:\\Users\\LENOVO\\IT13_Project\\frontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|C:\\Users\\LENOVO\\IT13_Project\\frontend\\messagespageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\messagespageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\studenthomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\studenthomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,65 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentLoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentLoginForm.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\StudentLoginForm.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentLoginForm.cs [Design]",
-              "RelativeToolTip": "FrontEnd\\StudentLoginForm.cs [Design]",
+              "Title": "StudentProfilePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentProfilePage.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\StudentProfilePage.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentProfilePage.cs [Design]",
+              "RelativeToolTip": "FrontEnd\\StudentProfilePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T16:02:46.123Z",
+              "WhenOpened": "2025-11-23T21:55:11.55Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TicketPageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\TicketPageForm.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\TicketPageForm.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\TicketPageForm.cs [Design]",
-              "RelativeToolTip": "FrontEnd\\TicketPageForm.cs [Design]",
+              "Title": "StudentHomePageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentHomePageForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\StudentHomePageForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentHomePageForm.cs [Design]",
+              "RelativeToolTip": "FrontEnd\\StudentHomePageForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T14:39:04.688Z",
+              "WhenOpened": "2025-11-23T21:54:39.791Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnnouncementPageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\AnnouncementPageForm.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\AnnouncementPageForm.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\AnnouncementPageForm.cs [Design]",
-              "RelativeToolTip": "FrontEnd\\AnnouncementPageForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:27:15.578Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\Form1.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Form1.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\Form1.cs [Design]",
-              "RelativeToolTip": "FrontEnd\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:30:04.924Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MessagesPageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\MessagesPageForm.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\MessagesPageForm.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\FrontEnd\\FrontEnd\\MessagesPageForm.cs [Design]",
-              "RelativeToolTip": "..\\source\\repos\\FrontEnd\\FrontEnd\\MessagesPageForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:29:30.882Z"
             }
           ]
         }

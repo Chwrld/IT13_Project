@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\IT13_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\announcementpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\announcementpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\admin_user_management_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\admin_user_management_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|C:\\Users\\LENOVO\\IT13_Project\\frontend\\messagespageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\messagespageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|c:\\users\\lenovo\\it13_project\\frontend\\studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC62154-FB64-4970-A7F8-260519B27933}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AnnouncementPageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\AnnouncementPageForm.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\AnnouncementPageForm.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\AnnouncementPageForm.cs [Design]",
-              "RelativeToolTip": "FrontEnd\\AnnouncementPageForm.cs [Design]",
+              "Title": "Admin_User_Management_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\Admin_User_Management_Form.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Admin_User_Management_Form.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\Admin_User_Management_Form.cs [Design]",
+              "RelativeToolTip": "FrontEnd\\Admin_User_Management_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:27:15.578Z",
+              "WhenOpened": "2025-11-23T17:44:45.594Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\Form1.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Form1.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\Form1.cs [Design]",
-              "RelativeToolTip": "FrontEnd\\Form1.cs [Design]",
+              "Title": "AdminLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\AdminLoginForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\AdminLoginForm.cs [Design]",
+              "RelativeToolTip": "FrontEnd\\AdminLoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:30:04.924Z",
+              "WhenOpened": "2025-11-23T17:35:21.901Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MessagesPageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\MessagesPageForm.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\MessagesPageForm.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\FrontEnd\\FrontEnd\\MessagesPageForm.cs [Design]",
-              "RelativeToolTip": "..\\source\\repos\\FrontEnd\\FrontEnd\\MessagesPageForm.cs [Design]",
+              "Title": "StudentLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentLoginForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\StudentLoginForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\IT13_Project\\FrontEnd\\StudentLoginForm.cs [Design]",
+              "RelativeToolTip": "FrontEnd\\StudentLoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:29:30.882Z"
+              "WhenOpened": "2025-11-23T16:02:46.123Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
