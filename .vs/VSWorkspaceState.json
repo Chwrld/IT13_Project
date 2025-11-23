@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FrontEnd"
   ],
-  "SelectedNode": "\\FrontEnd.sln",
+  "SelectedNode": "\\FrontEnd\\AnnouncementPageForm.cs",
   "PreviewInSolutionExplorer": false
 }

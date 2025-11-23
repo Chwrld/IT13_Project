@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -151,6 +152,7 @@
             guna2HtmlLabel8 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel9 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel10 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2AnimateWindow1 = new Guna.UI2.WinForms.Guna2AnimateWindow(components);
             guna2ShadowPanel1.SuspendLayout();
             SideBar.SuspendLayout();
             guna2GradientPanel1.SuspendLayout();
@@ -749,7 +751,7 @@
             guna2HtmlLabel23.ForeColor = Color.Gray;
             guna2HtmlLabel23.Location = new Point(70, 31);
             guna2HtmlLabel23.Name = "guna2HtmlLabel23";
-            guna2HtmlLabel23.Size = new Size(194, 17);
+            guna2HtmlLabel23.Size = new Size(193, 17);
             guna2HtmlLabel23.TabIndex = 3;
             guna2HtmlLabel23.Text = "Thanks for your presentation. Let's...\r\n";
             // 
@@ -864,7 +866,7 @@
             guna2HtmlLabel29.ForeColor = Color.Gray;
             guna2HtmlLabel29.Location = new Point(59, 27);
             guna2HtmlLabel29.Name = "guna2HtmlLabel29";
-            guna2HtmlLabel29.Size = new Size(108, 17);
+            guna2HtmlLabel29.Size = new Size(107, 17);
             guna2HtmlLabel29.TabIndex = 5;
             guna2HtmlLabel29.Text = "Tomorrow, 9:00 AM";
             // 
@@ -984,7 +986,7 @@
             guna2HtmlLabel33.ForeColor = Color.Gray;
             guna2HtmlLabel33.Location = new Point(59, 27);
             guna2HtmlLabel33.Name = "guna2HtmlLabel33";
-            guna2HtmlLabel33.Size = new Size(74, 17);
+            guna2HtmlLabel33.Size = new Size(75, 17);
             guna2HtmlLabel33.TabIndex = 5;
             guna2HtmlLabel33.Text = "Next Monday";
             // 
@@ -1254,5 +1256,6 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel35;
         private Guna.UI2.WinForms.Guna2Button guna2Button11;
         private Guna.UI2.WinForms.Guna2Button guna2Button10;
+        private Guna.UI2.WinForms.Guna2AnimateWindow guna2AnimateWindow1;
     }
 }
